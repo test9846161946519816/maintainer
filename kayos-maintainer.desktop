@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Maintainer
+Comment=Maintanance application for KayOS
+
+Exec=maintainer
+Terminal=false
+Type=Application
+Icon=kayos
+Categories=GNOME;GTK;System;
+NoDisplay=false
